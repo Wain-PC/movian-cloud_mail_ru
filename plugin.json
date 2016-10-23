@@ -1,0 +1,14 @@
+{
+  "description": "Cloud.mail.ru",
+  "author": "Wain",
+  "homepage": "http://github.com/Wain-PC",
+  "title": "Cloud.mail.ru",
+  "synopsis": "Mail.ru Cloud file storage access plugin",
+  "version": "0.1.0",
+  "file": "cloud_mail_ru.js",
+  "showtimeVersion": "4.9.389",
+  "type": "ecmascript",
+  "icon": "logo.png",
+  "id": "cloud_mail_ru",
+  "category": "video"
+}
